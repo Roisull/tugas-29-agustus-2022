@@ -71,7 +71,7 @@
             android:layout_marginBottom="10dp"/>
 
         <EditText
-            android:id="@+id/et_nulai_uts_mhs"
+            android:id="@+id/et_nilai_uts_mhs"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="nilai uts"
